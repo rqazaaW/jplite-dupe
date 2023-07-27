@@ -1,0 +1,1 @@
+game.Players.LocalPLayer:Kick("You have been banned! (Code 242 script detected)")
